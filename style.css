@@ -20,18 +20,6 @@ img {
     width: 300px;
     height: auto;
 }
-.btn-MC{
-    background-color: #00c517;
-    align-self: flex-start;
-    align-self: center;
-    align-items: center;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
-}
-.btn-MC:hover{
-    cursor: pointer;
-    transform: scale(1.05);
-    box-shadow: 0 10px 25px rgba(0,0,0,0.2);
-}
 .card img {
     height: 200px;
     object-fit: cover;
